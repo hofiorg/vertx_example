@@ -7,6 +7,8 @@ Vert.x Example
 
 <https://vertx.io/docs/>
 
+<https://github.com/vert-x3/vertx-examples/tree/master/maven-verticles/maven-verticle>
+
 ## Start
 
 Launch `package and start` run configuration.
