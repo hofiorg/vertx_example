@@ -1,4 +1,4 @@
-# vertx_example [![Build Status](https://travis-ci.org/hofiorg/vertx_example.svg?branch=master)](https://travis-ci.org/hofiorg/vertx_example)
+# vertx_example &middot; ![maven workflow](https://github.com/hofiorg/vertx_example/actions/workflows/maven.yml/badge.svg)
 Vert.x Example
 
 ## Links
